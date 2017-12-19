@@ -1,6 +1,6 @@
 var APP_ID = '148907409093529'; //Facebook APP ID
 var LIMIT = 250; //Number of records to bring back at any time
-var BASEURL = 'https://github.com/jebalii/WDC1' //base url of virtual directory
+var BASEURL = 'https://jebalii.github.io/' //base url of virtual directory
 
 window.fbAsyncInit = function() {
     FB.init({
